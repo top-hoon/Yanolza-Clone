@@ -1,0 +1,32 @@
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.OracleDriver
+    url: jdbc:oracle:thin:@minjung_high?TNS_ADMIN=C:/JAVAGUK/Spring/resource/Wallet_minjung
+    username: admin
+    password: Ksalswjd513513!!
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: wjdgn5959667@gmail.com
+    password: qhtlkrgdpjlegwdb
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+  jpa:
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
+        use_sql_comments: true
+  loggin:
+    level:
+      org:
+        hibernate:
+          type:
+            descriper:
+              sql: trace
+
