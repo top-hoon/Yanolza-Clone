@@ -44,7 +44,7 @@
 
 <div align=center>
   <div>인원</div>
- <strong>프론트엔드 3명</strong><br>
+ <strong>프론트엔드 4명</strong><br>
  <strong>백엔드 1명</strong><br>
 </div>
 
@@ -91,6 +91,7 @@
 ![156002798-57a4cf6e-ca61-4b62-9e3c-f789355aa9c8](https://user-images.githubusercontent.com/79463595/159833864-16228673-5d84-42d2-92d8-d3d951235b6a.gif)
 
  </div>
+ 
 ## 좋았던 점
  - 첫 프로젝트여서 서류작성등이 유독 할 일이 많다고 느껴졌는데, 다 만들고보니 좋았습니다.
  - 어려움을 느낀부분이 많았지만 하나하나 해결해가면서 내가 코딩을 맘에 들어하는구나라고 느끼게되어 좋았습니다.
