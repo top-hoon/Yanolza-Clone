@@ -41,7 +41,7 @@
  
 <div align=center>
   
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/86812173/155129671-89e77c43-08d8-444c-b921-4b7bf6365688.gif)
+![155129671-89e77c43-08d8-444c-b921-4b7bf6365688](https://user-images.githubusercontent.com/79463595/159833451-aa860a7e-53f7-46ae-b773-d0a3700c02c9.gif)
   
 </div>
 
@@ -52,7 +52,7 @@
 
  <div align= center>
  
- ![호스트](https://user-images.githubusercontent.com/86812173/156031892-565048bf-6308-47aa-8404-4b44f9463c8a.gif)
+![156031892-565048bf-6308-47aa-8404-4b44f9463c8a](https://user-images.githubusercontent.com/79463595/159833778-03b23b01-09bc-4a2a-b981-d108e57b5d8b.gif)
  
   </div>
   
@@ -64,7 +64,7 @@
 
  <div align= center>
  
- ![admin_edit](https://user-images.githubusercontent.com/86812173/156308172-a37817b9-4e13-415e-802d-69d44f5533e4.gif)
+![156308172-a37817b9-4e13-415e-802d-69d44f5533e4](https://user-images.githubusercontent.com/79463595/159833820-ae2da67f-a65e-494e-b4b4-d8ae2ec4f9a3.gif)
 
  </div>
  
@@ -74,7 +74,7 @@
 
 <div align= center>
  
-![찜하기](https://user-images.githubusercontent.com/86812173/156002798-57a4cf6e-ca61-4b62-9e3c-f789355aa9c8.gif)
+![156002798-57a4cf6e-ca61-4b62-9e3c-f789355aa9c8](https://user-images.githubusercontent.com/79463595/159833864-16228673-5d84-42d2-92d8-d3d951235b6a.gif)
 
  </div>
  
