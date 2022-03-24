@@ -2,8 +2,6 @@
 ### 여기어때 숙박 예약 플랫폼
  - 기간 : 2021.08.01 ~ 10.26 
  - 환경 : Apache Tomcat 8.0, Chrome 브라우저
- - 개발 : 
- - 사용언어 : Java
 
 ### 프로젝트 진행과정
  1. 스토리보드
@@ -16,7 +14,7 @@
 
 
 ### 나의 프로젝트 담당 및 역할
- - `frontend` 호스트페이지 퍼블리싱, 관리자페이지 템플릿 이용하여 구현 + axios 통신
+ - `frontend` 유저페이지 퍼블리싱, 관리자페이지 템플릿 이용하여 구현 + axios 통신
  - `backend` 백엔드 전체 기능 구현
 
 
@@ -25,8 +23,8 @@
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">&nbsp
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">&nbsp
- <img src="https://img.shields.io/badge/JPA-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=black"/>
- <img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JPA-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=black"/>&nbsp
+ <img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white"/>&nbsp
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=black">&nbsp
  <br>
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
@@ -93,18 +91,21 @@
 ![156002798-57a4cf6e-ca61-4b62-9e3c-f789355aa9c8](https://user-images.githubusercontent.com/79463595/159833864-16228673-5d84-42d2-92d8-d3d951235b6a.gif)
 
  </div>
+## 좋았던 점
+ - 첫 프로젝트여서 서류작성등이 유독 할 일이 많다고 느껴졌는데, 다 만들고보니 좋았습니다.
+ - 어려움을 느낀부분이 많았지만 하나하나 해결해가면서 내가 코딩을 맘에 들어하는구나라고 느끼게되어 좋았습니다.
+ - 프로그램을 부분부분 나누어서 보았을때와 다 합쳐서 보았을 때 말로 표현못할 기분을 느꼈다.
  
 ## 아쉬웠던 점
  - 수업을 들으면서 프로젝트를 진행하다보니, 바로바로 적용하는데에 어려움이 있었습니다
  - 백엔드 부분을 혼자 진행하다보니 어려운 부분에 부딪혔을때 물어볼사람이 없어서 힘들었습니다.
  - 다양한 방법으로 진행해보려 했으나 첫 프로젝트라서 시간이 모자라서 아쉬웠습니다.
  
-## 느낀 점
- - 프로그램을 부분부분 나누어서 보았을때와 다 합쳐서 보았을 때 말로 표현못할 기분을 느꼈다.
+## 기타
  - 생각보다 협업이라는것은 어렵다고 느꼈다.(디자인을 중시하는 사람이있고, 보여지는것보다는 기술이 중요하다는 사람도 있고, 커뮤니케이션 자체를 좋아하지 않는 사람도 있었고 어려워서 나가고 싶어하는 사람도 있었다..)
  - 하지만 누구한명이라도 포기하지 않으면 할 수 있다는것을 느꼈다.
  - 데이터베이스 설계는 중요하고, 역할분담 중요하다고 느꼈다
- - 이 프로젝트가 다른사람이 넘겨받았을때도 어려움없이 진행할 수 있도록 설계해야한다고 데이터베이스는 다른분이짜고 코드는 내가 짜는데, 그렇게하면 안된다고 생각했다..ㅠ
+ - 이 프로젝트를 다른사람이 넘겨받았을때도 어려움없이 진행할 수 있도록 설계해야한다고 생각했다 데이터베이스는 다른분이짜고 코드는 내가 짜는데, 설계의도를 파악하지못해서 어려웠다 
  - 다음에는 좋은 커뮤니케이션을 통해서  더 완성도 높은 프로젝트를 만들어야겠다고 생각했다
 <div align= center>
  </div>
